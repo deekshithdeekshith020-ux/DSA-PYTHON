@@ -20,11 +20,13 @@ DSA-PYTHON.3/
     └── TO COUNT THE NUMBER OF EVEN AND ODD NUMBERS IN THE ARRAY.py
 ```
 
-## Files (10 Programs)
+## Files (16 Programs)
 
 - Check if an Array Is Sorted.PY
 - Count Occurrences of elements in array.py
 - Find second largest element.py
+- Find the first element that appears exactly once.py
+- Find the second largest distinct element.py
 - Find the First Occurrence Index.py
 - Find the Smallest Element IN THE ARRAY.py
 - Given a list of integers, find the largest element without using max()..py
@@ -32,6 +34,10 @@ DSA-PYTHON.3/
 - REVERSE AN ARRAY.py
 - SUM OF AN ARRAY.py
 - TO COUNT THE NUMBER OF EVEN AND ODD NUMBERS IN THE ARRAY.py
+- inde_array.py
+- practise_work.py
+- reverse.py
+- sum_count.py
 
 ## How to Run
 ```bash
