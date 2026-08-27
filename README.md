@@ -21,12 +21,14 @@ DSA-PYTHON.3/
     └── TO COUNT THE NUMBER OF EVEN AND ODD NUMBERS IN THE ARRAY.py
 └── ARRAY-TWOPOINTER.PY/
     ├── Determine whether any two different elements add up to target.py
+    ├── Determine whether it is a palindrome.py
+    ├── find unique pairs whos sum is equal to target.py
     ├── Move all 0s to the end of the array in-place, while keeping the order of the non-zero elements the same.py
     ├── Remove duplicates in-place so that the unique elements are at the beginning of the array.py
     └── Reverse the array in-place using the Two Pointers technique.py
 ```
 
-## Files (21 Programs)
+## Files (23 Programs)
 
 - Check if an Array Is Sorted.PY
 - Count Occurrences of elements in array.py
@@ -49,6 +51,8 @@ DSA-PYTHON.3/
 ### Two-Pointer Array Programs
 
 - Determine whether any two different elements add up to target.py
+- Determine whether it is a palindrome.py
+- find unique pairs whos sum is equal to target.py
 - Move all 0s to the end of the array in-place, while keeping the order of the non-zero elements the same.py
 - Remove duplicates in-place so that the unique elements are at the beginning of the array.py
 - Reverse the array in-place using the Two Pointers technique.py
@@ -59,7 +63,7 @@ python "filename.py"
 ```
 
 ## Status
-✅ All 21 programs completed
+✅ All 23 programs completed
 
 ## Language
 Python 3.x
