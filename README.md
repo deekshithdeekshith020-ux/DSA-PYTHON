@@ -22,13 +22,15 @@ DSA-PYTHON.3/
 └── ARRAY-TWOPOINTER.PY/
     ├── Determine whether any two different elements add up to target.py
     ├── Determine whether it is a palindrome.py
+    ├── Determine whether there are three elements whose sum equals.py
+    ├── Find all unique triplets whose sum equals 0.py
     ├── find unique pairs whos sum is equal to target.py
     ├── Move all 0s to the end of the array in-place, while keeping the order of the non-zero elements the same.py
     ├── Remove duplicates in-place so that the unique elements are at the beginning of the array.py
     └── Reverse the array in-place using the Two Pointers technique.py
 ```
 
-## Files (23 Programs)
+## Files (25 Programs)
 
 - Check if an Array Is Sorted.PY
 - Count Occurrences of elements in array.py
@@ -52,6 +54,8 @@ DSA-PYTHON.3/
 
 - Determine whether any two different elements add up to target.py
 - Determine whether it is a palindrome.py
+- Determine whether there are three elements whose sum equals.py
+- Find all unique triplets whose sum equals 0.py
 - find unique pairs whos sum is equal to target.py
 - Move all 0s to the end of the array in-place, while keeping the order of the non-zero elements the same.py
 - Remove duplicates in-place so that the unique elements are at the beginning of the array.py
@@ -63,7 +67,7 @@ python "filename.py"
 ```
 
 ## Status
-✅ All 23 programs completed
+✅ All 25 programs completed
 
 ## Language
 Python 3.x
