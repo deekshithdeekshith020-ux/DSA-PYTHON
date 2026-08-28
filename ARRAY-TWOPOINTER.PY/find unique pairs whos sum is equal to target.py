@@ -23,3 +23,4 @@ while left < right:
             left += 1
         while left < right and arr[right] == arr[right + 1]:
             right -= 1
+            
