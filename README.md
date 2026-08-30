@@ -28,9 +28,13 @@ DSA-PYTHON.3/
     ├── Move all 0s to the end of the array in-place, while keeping the order of the non-zero elements the same.py
     ├── Remove duplicates in-place so that the unique elements are at the beginning of the array.py
     └── Reverse the array in-place using the Two Pointers technique.py
+├── ARRAY-SLIDING WINDOW.PY/
+    ├── Find the maximum sum of any 3 consecutive elements.py
+    ├── Find the minimum sum of any 2 consecutive elements.py
+    └── Find the minimum sum of any 3 consecutive elements.py
 ```
 
-## Files (25 Programs)
+## Files (28 Programs)
 
 - Check if an Array Is Sorted.PY
 - Count Occurrences of elements in array.py
@@ -61,13 +65,19 @@ DSA-PYTHON.3/
 - Remove duplicates in-place so that the unique elements are at the beginning of the array.py
 - Reverse the array in-place using the Two Pointers technique.py
 
+### Sliding Window Programs
+
+- Find the maximum sum of any 3 consecutive elements.py
+- Find the minimum sum of any 2 consecutive elements.py
+- Find the minimum sum of any 3 consecutive elements.py
+
 ## How to Run
 ```bash
 python "filename.py"
 ```
 
 ## Status
-✅ All 25 programs completed
+✅ All 28 programs completed
 
 ## Language
 Python 3.x
