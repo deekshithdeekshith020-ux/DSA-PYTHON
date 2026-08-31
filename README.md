@@ -68,6 +68,7 @@ DSA-PYTHON.3/
 ### Sliding Window Programs
 
 - Find the maximum sum of any 3 consecutive elements.py
+- Find the minimum length of a contiguous subarray whose sum is greater than or equal to target.py
 - Find the minimum sum of any 2 consecutive elements.py
 - Find the minimum sum of any 3 consecutive elements.py
 
@@ -77,7 +78,7 @@ python "filename.py"
 ```
 
 ## Status
-✅ All 28 programs completed
+✅ All 29 programs completed
 
 ## Language
 Python 3.x
